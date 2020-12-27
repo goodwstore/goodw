@@ -333,8 +333,8 @@
 			<img src="content\themes\GOODW\dist\img\shadow.png" alt="Shadow Image" class="shadow">
 			<img src="content\themes\GOODW\dist\img\kaosLayering.png" alt="About" class="about-img">
 			<div class="about-text">
-				<h2>Selamat Datang</h2>
-				<h4>GOODW</h4>
+				<h2>GOODW</h2>
+				<h4>Worth it to Buy</h4>
 				<p>GOODW menyediakan Kaos polos dengan bahan Cotton Combed 30s dengan beragam Warna dan Ukuran,
 selain itu ada Outwear seperti Hoodie Jumper, Hoodie Zipper dan Sweater.</p>
 			</div>
