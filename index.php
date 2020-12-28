@@ -518,7 +518,7 @@ selain itu ada Outwear seperti Hoodie Jumper, Hoodie Zipper dan Sweater.</p>
 							<br>
 
 							<h4>Link Pembelian :</h4>
-									<p>Mager? Silahkan Kontak kami, barang bisa diantar atau kalian bisa COD dengan klik gambar dibawah ini (hanya untuk wilayah Surakarta).</p>
+									<p>Mager? Silahkan Kontak kami melalui Whatsapp, barang bisa diantar atau kalian bisa COD dengan klik gambar dibawah ini (hanya untuk wilayah Surakarta).</p>
 									<div class="zoom3">
 										<a href="https://api.whatsapp.com/send?phone=62895328181200" target="_blank"><img src="assets\image\difsbikers.png" width="75%"></a>
 									</div>
@@ -618,7 +618,7 @@ selain itu ada Outwear seperti Hoodie Jumper, Hoodie Zipper dan Sweater.</p>
 							</table>	
 							
 							<h4>Link Pembelian :</h4>
-									<p>Mager? Silahkan Kontak kami, barang bisa diantar atau kalian bisa COD dengan klik gambar dibawah ini (hanya untuk wilayah Surakarta).</p>
+									<p>Mager? Silahkan Kontak kami melalui Whatsapp,, barang bisa diantar atau kalian bisa COD dengan klik gambar dibawah ini (hanya untuk wilayah Surakarta).</p>
 									<div class="zoom3">
 										<a href="https://api.whatsapp.com/send?phone=62895328181200" target="_blank"><img src="assets\image\difsbikers.png" width="75%"></a>
 									</div>
@@ -715,7 +715,7 @@ selain itu ada Outwear seperti Hoodie Jumper, Hoodie Zipper dan Sweater.</p>
 							</table>
 							
 							<h4>Link Pembelian :</h4>
-									<p>Mager? Silahkan Kontak kami, barang bisa diantar atau kalian bisa COD dengan klik gambar dibawah ini (hanya untuk wilayah Surakarta).</p>
+									<p>Mager? Silahkan Kontak kami melalui Whatsapp,, barang bisa diantar atau kalian bisa COD dengan klik gambar dibawah ini (hanya untuk wilayah Surakarta).</p>
 									<div class="zoom3">
 										<a href="https://api.whatsapp.com/send?phone=62895328181200" target="_blank"><img src="assets\image\difsbikers.png" width="75%"></a>
 									</div>
@@ -813,7 +813,7 @@ selain itu ada Outwear seperti Hoodie Jumper, Hoodie Zipper dan Sweater.</p>
 							</table>
 							
 							<h4>Link Pembelian :</h4>
-									<p>Mager? Silahkan Kontak kami, barang bisa diantar atau kalian bisa COD dengan klik gambar dibawah ini (hanya untuk wilayah Surakarta).</p>
+									<p>Mager? Silahkan Kontak kami melalui Whatsapp,, barang bisa diantar atau kalian bisa COD dengan klik gambar dibawah ini (hanya untuk wilayah Surakarta).</p>
 									<div class="zoom3">
 										<a href="https://api.whatsapp.com/send?phone=62895328181200" target="_blank"><img src="assets\image\difsbikers.png" width="75%"></a>
 									</div>
@@ -872,10 +872,12 @@ selain itu ada Outwear seperti Hoodie Jumper, Hoodie Zipper dan Sweater.</p>
 				<div style="margin-left: 10px;">
 					
 						<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+						<p>Kontak kami melalui Whatsapp dengan klik gambar dibawah</p>
 						<div class="zoom">
 							<a href="https://api.whatsapp.com/send?phone=62895328181200" target="_blank"><img src="assets\image\difsbikers.png" width="100%"></a>
 							<p></p>
 						</div>
+						<p>Ecommerce</p>
 						<div class="zoom">
 							<!-- <a href="https://tokopedia.com/goodw-supply" target="_blank"><img src="assets\image\tokopedia2.png" width="100%"></a> -->
 							<a href="#" onclick="myFunction()"><img src="assets\image\tokopedia2.png" width="100%"></a>
