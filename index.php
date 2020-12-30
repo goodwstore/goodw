@@ -11,14 +11,6 @@
 	<link rel='stylesheet' href='content\themes\GOODW\style.css' type='text/css' media='all'>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@sweetalert2/theme-dark@3/dark.css">
 	<script type='text/javascript' src='includes\js\jquery\jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-NF6T9YC0FQ"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-	  gtag('config', 'G-NF6T9YC0FQ');
-	</script>
 </head>
 
 <?php
