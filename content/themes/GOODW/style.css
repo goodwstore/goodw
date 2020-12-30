@@ -1,0 +1,86 @@
+.loader {
+  text-align: center;
+  max-width: 100%;
+
+  padding: 90px 0;
+  display: block;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+.more_info {
+  border-bottom: 0px dotted;
+  position: relative;
+}
+
+.more_info .title {
+  position: absolute;
+  top: 30px;
+  background: rgba(2, 0, 0, 0.234);
+  padding: 10px;
+  left: 0;
+  white-space: nowrap;
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  background-color: rgba(2, 0, 0, 0.234);
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 2px;
+  top: 35px;
+  left: 0;
+  white-space: nowrap;
+  position: absolute;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}
+
+.zoom {
+  padding: 10px;
+  transition: transform 0.2s; /* Animation */
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(
+    1.1
+  ); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+.zoom2 {
+  transition: transform 0.2s; /* Animation */
+}
+
+.zoom2:hover {
+  transform: scale(
+    1.1
+  ); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+.zoom3 {
+  padding: 5px;
+  transition: transform 0.2s; /* Animation */
+  margin: 0 auto;
+  margin-left: 40px;
+}
+
+.zoom3 {
+  transition: transform 0.2s; /* Animation */
+}
+
+.zoom3:hover {
+  transform: scale(
+    1.05
+  ); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
